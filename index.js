@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made by Kappa","Watching Kappa"];
+const statusMessages = ["Watching made by kappa","Watching made by kappa"];
 
 
 let currentIndex = 0;
@@ -117,3 +117,4 @@ GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
  *   Code by RTX GAMING
  * **********************************************
  */
+
